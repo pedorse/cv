@@ -16,3 +16,15 @@ h1 {
 h3 {
   color: #0AA1DD;
 }
+
+h1:hover {
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+img:hover {
+  filter: invert(1)
+}
